@@ -27,6 +27,7 @@ python yolo_video.py --model path/to/model --classes_path path/to/class/names --
 
 2. Models Used
     - keras-yolo3 by qqwweee (link: https://github.com/qqwweee/keras-yolo3)
+    - keras-retinanet 
     - LeNet (implementation by PyImageSearch)
 
 3. Training Tools
