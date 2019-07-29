@@ -6,11 +6,11 @@ Object detection and classification model built through transfer training on Yol
 
 ## Demo
 
-Demo using RetinaNet
+Demo using RetinaNet (slower inference, higher accuracy)
 
 ![demo](demo.gif)
 
-Demo using YoloV3
+Demo using YoloV3 (faster inference, lower accuracy)
 
 ![demo yolo](yolo-model.gif)
 
