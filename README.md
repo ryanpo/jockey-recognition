@@ -7,9 +7,11 @@ Object detection and classification model built through transfer training on Yol
 ## Demo
 
 Demo using RetinaNet
+
 ![demo](demo.gif)
 
 Demo using YoloV3
+
 ![demo yolo](yolo-model.gif)
 
 ## How to use:
